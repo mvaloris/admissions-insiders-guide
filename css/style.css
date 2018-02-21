@@ -1497,6 +1497,11 @@ h2.dream-college {
     }
 }
 
+@media only screen and (min-width: 576px) and (max-width:767px) {
+    .modal-body img {
+        width:500px;
+    }
+}
 
 @media only screen and (min-width:576px) and (max-width:850px) {
     .white-text {
